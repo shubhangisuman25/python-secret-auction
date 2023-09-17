@@ -7,7 +7,7 @@ The objective is to write a program that will collect the names and bids of diff
 
 ```
 Welcome to the secret auction program. 
-What is your name?: Angela
+What is your name?: Shubhangi
 ```
 ```
 What's your bid?: $123
@@ -23,7 +23,6 @@ If there are other bidders, the screen should clear, so you can pass your phone 
 The winner is Elon with a bid of $55000000000
 ```
 
-Use your knowledge of Python dictionaries and loops to solve this challenge. 
 
 
 # My console doesn't clear!
